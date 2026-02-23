@@ -1,0 +1,16 @@
+{
+  "name": "insurance-fraud-blockchain",
+  "version": "1.0.0",
+  "description": "Smart contracts for insurance fraud detection",
+  "scripts": {
+    "compile": "truffle compile",
+    "migrate": "truffle migrate --reset",
+    "test": "truffle test"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.15"
+  },
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  }
+}

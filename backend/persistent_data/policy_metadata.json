@@ -1,0 +1,13 @@
+{
+  "POL405988": {
+    "policyNumber": "POL405988",
+    "did": "did:insure:user:c90a191ac56a9252",
+    "patientName": "Rohith Sharma",
+    "policyType": "Accident Insurance",
+    "coverageAmount": "150000",
+    "premium": "1997",
+    "durationMonths": 12,
+    "insuranceCompany": "star health",
+    "createdAt": "2025-11-08T21:29:43.980014"
+  }
+}

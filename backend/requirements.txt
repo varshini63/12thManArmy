@@ -1,0 +1,10 @@
+Flask==2.3.2
+Flask-CORS==4.0.0
+web3==6.8.0
+pandas==2.2.2       # updated
+numpy==1.26.4       # updated
+scikit-learn==1.5.1 # updated
+cryptography==43.0.0
+joblib==1.4.2
+google-genai==0.3.0
+python-dotenv==1.0.0
